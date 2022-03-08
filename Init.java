@@ -30,16 +30,14 @@ class Init {
                         adminCode = myInit1.scan();
                     }
                 }
-                Admin myAdmin = new Admin();
-                myAdmin.setAdminPw();
+                Admin.setAdminPw();
             } else if (scanOutput.equals("U")) {
                 flag1 = false;
                 System.out.println("Create User account selected.");
-                User myUser = new User();
-                myUser.setUserPw();
+                User.setUserPw();
             } else if (scanOutput.equals("E")) {
                 flag1 = false;
-                System.out.println("Exiting.");
+                System.out.println("Exiting. Please confirm.");
             } else {
                 System.out.println("Invalid input. Please try again.");
             }
