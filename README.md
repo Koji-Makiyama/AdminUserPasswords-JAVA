@@ -1,0 +1,1 @@
+This Java app is a work-in-progress that simulates the creation of passwords for an admin or user object. The object created is function scoped however, so it is destroyed when the Main.java while-loop iterates (work in progress while I learn how to link Java to a database).
