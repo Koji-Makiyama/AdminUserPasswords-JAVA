@@ -1,3 +1,6 @@
+// pass scanner around through parameters to avoid the need to create multiple instantiations
+// create a class variable list and add admin and user objects to that list (this avoids them from being function scoped and getting lost).
+
 import java.util.Scanner;
 
 class Main {
