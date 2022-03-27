@@ -14,8 +14,10 @@ FOR WINDOWS:\
 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html \
 Extract the cloned zip file.\
 Open the Command Prompt.\
-Use 'cd' (change directory) to navigate to the extracted folder's SRC directory.\ 
-(Your CLI should look something like this 'C:\\Users\\(yourusername)\\Downloads\\AdminUserPasswords-JAVA-main\\src>'.)\
+Use 'cd' (change directory) to navigate to the extracted folder's SRC directory.\
+Your CLI should look something like this:\
+'C:\\Users\\(yourusername)\\Downloads\\AdminUserPasswords-JAVA-main\\src>'.\
+\
 In my case, when downloading and unzipping the file with the default name, the syntax looks like this below: \
 \
 My default CLI directory is C:\Users\(my username).\ 
