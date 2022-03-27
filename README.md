@@ -1,3 +1,10 @@
+(NOT YET FUNCTIONAL / WORK-IN-PROGRESS !!!)\
+The directories of this repository need to be fixed.\ 
+I created this app using intellij IDEA, and it automatically handles directory creation for packages.\
+I am still learning how to upload directories on GitHub correctly.\
+I will update this when I have fixed it.\
+Aside from the package/directory mismatch, the app is completely functional.\
+
 This Java app is a work-in-progress that simulates the creation of passwords for an admin or user object. Using the Scanner utility, the user interacts with the program.
 You are guided through a series of questions that lead you to the creation of an object (Admin/User account) where you then set your username and your password.
 This information is saved by means of adding it to an ArrayList (Java.util package) located in the Main class. Looping and conditional constructs help guide the user.
