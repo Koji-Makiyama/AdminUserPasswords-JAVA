@@ -9,7 +9,7 @@ ATTENTION:\
 This repository includes .java files that need to be compiled by the Java compiler into class files before being ran.
 You can do this via your preferred IDE or via Windows CLI / Apple's Terminal / Linux CLI, etc.
 
-FOR WINDOWS:\
+FOR WINDOWS (ASSUMING YOU DOWNLOAD & UNZIP IN THE DOWNLOADS FOLDER):\
 (Install Java, e.g. Java SE 17.)\
 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html \
 Extract the cloned zip file.\
