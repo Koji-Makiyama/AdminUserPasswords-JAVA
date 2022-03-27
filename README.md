@@ -20,7 +20,8 @@ Your CLI should look something like this:\
 \
 In my case, when downloading and unzipping the file with the default name, the syntax looks like this below: \
 \
-My default CLI directory is C:\Users\(my username).\ 
+My default CLI directory is C:\\Users\\(my username).\ 
+\
 If yours differs, that is ok, just navigate to the src directory of the unzipped file.\
 \
 For me, this was 'cd Downloads\AdminUserPasswords-JAVA-main\src' \
