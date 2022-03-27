@@ -1,10 +1,3 @@
-(NOT YET FUNCTIONAL / WORK-IN-PROGRESS !!!)\
-The directories of this repository need to be fixed.\ 
-I created this app using intellij IDEA, and it automatically handles directory creation for packages.\
-I am still learning how to upload directories on GitHub correctly.\
-I will update this when I have fixed it.\
-Aside from the package/directory mismatch, the app is completely functional.\
-
 This Java app is a work-in-progress that simulates the creation of passwords for an admin or user object. Using the Scanner utility, the user interacts with the program.
 You are guided through a series of questions that lead you to the creation of an object (Admin/User account) where you then set your username and your password.
 This information is saved by means of adding it to an ArrayList (Java.util package) located in the Main class. Looping and conditional constructs help guide the user.
@@ -21,7 +14,10 @@ FOR WINDOWS:\
 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html \
 Extract the cloned zip file.\
 Open the Command Prompt.\
-Use 'cd' (change directory) to navigate to the extracted folder.\
-Enter 'javac Main.java' (This will compile the .java files in the directory into .class files).\
-Enter 'java Main' (This will run the .class files that were compiled).\
+Use 'cd' (change directory) to navigate to the extracted folder's SRC directory (Your CLI should say '../src>'.\
+In my case, when downloading and unzipping the file with the default name, the syntax looks like this:\
+My default CLI directory is C:\Users\(my username). If yours differs, that is ok, just navigate to the src directory of the unzipped file.\
+For me, this was 'cd Downloads\AdminUserPasswords-JAVA-main\src' \
+Enter 'javac ./com.AdminProject/main/Main.java' (This will compile the .java files in the directory into .class files).\
+Enter 'java com.AdminProject.main.Main' (This will run the .class files that were compiled).\
 And the program should begin prompting you with messages!
