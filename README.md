@@ -16,9 +16,14 @@ Extract the cloned zip file.\
 Open the Command Prompt.\
 Use 'cd' (change directory) to navigate to the extracted folder's SRC directory.\ 
 (Your CLI should look something like this 'C:\Users\(yourusername)\Downloads\AdminUserPasswords-JAVA-main\src>'.)\
-In my case, when downloading and unzipping the file with the default name, the syntax looks like this: \
-My default CLI directory is C:\Users\(my username).\ If yours differs, that is ok, just navigate to the src directory of the unzipped file.\
+In my case, when downloading and unzipping the file with the default name, the syntax looks like this below: \
+\
+My default CLI directory is C:\Users\(my username).\ 
+If yours differs, that is ok, just navigate to the src directory of the unzipped file.\
+\
 For me, this was 'cd Downloads\AdminUserPasswords-JAVA-main\src' \
+\
 Enter 'javac ./com.AdminProject/main/Main.java' (This will compile the .java files in the directory into .class files).\
 Enter 'java com.AdminProject.main.Main' (This will run the .class files that were compiled).\
+\
 And the program should begin prompting you with messages!
