@@ -3,4 +3,4 @@ You are guided through a series of questions that lead you to the creation of an
 This information is saved by means of adding it to an ArrayList (Java.util package) located in the Main class. Looping and conditional constructs help guide the user.
 
 1. Goals for this project: Create a database and table to be associated with the admins and users. (DONE)
-2. Use JDBC to connect this app with the database. (Connected the states database first).
+2. Use JDBC to connect this app with the database. (Connected the states database first)..
