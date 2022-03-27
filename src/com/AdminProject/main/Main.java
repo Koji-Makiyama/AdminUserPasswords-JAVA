@@ -3,8 +3,8 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 public class Main {
-    static ArrayList adminlist = new ArrayList<>();
-    static ArrayList userlist = new ArrayList<>();
+    static ArrayList<Object> adminlist = new ArrayList<Object>();
+    static ArrayList<Object> userlist = new ArrayList<Object>();
 
     public static void main(String[] args) {
         System.out.println("Hello, welcome to the admin and user setup wizard. " +
