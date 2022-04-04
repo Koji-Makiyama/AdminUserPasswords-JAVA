@@ -4,7 +4,7 @@ This information is saved by means of adding it to an ArrayList (Java.util packa
    
 1. Goals for this project: Create a database and table to be associated with the admins and users. (Work in progress)
 2. Use JDBC to connect this app with the database. (Work in progress)
-
+ 
 ATTENTION:\ 
 This repository includes .java files that need to be compiled by the Java compiler into class files before being ran.
 You can do this via your preferred IDE or via Windows CLI / Apple's Terminal / Linux CLI, etc.
